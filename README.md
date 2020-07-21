@@ -1,5 +1,4 @@
-# I mAkE fReE (aS iN fReEdOm) RuSt GaMe-StUfFs..
-
+![Ferris](https://raw.githubusercontent.com/tversteeg/tversteeg/master/ferris.png)
 <!--
 **tversteeg/tversteeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
