@@ -19,10 +19,10 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Amsterdam
-          plugin_languages: yes
-          plugin_languages_skipped: ccore
-          plugin_projects: yes
-          plugin_projects_limit: 4
-          plugin_projects_repositories: keybear
           plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars_limit: 1
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_traffic: yes
+          plugin_lines: yes
+          plugin_habits: yes
