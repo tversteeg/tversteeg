@@ -876,8 +876,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">12</span>
-              <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">8</span>
+              <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               10
             </div>
           
@@ -1006,8 +1006,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">6</span>
-                <div class="bar" style="height: 11.538461538461538px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">2</span>
+                <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Sat
               </div>
             
@@ -1021,31 +1021,31 @@
             
               <div class="entry">
                 <span class="name">HTML</span>
-                <div class="bar" style="width: 50.431999999999995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                <span class="value">63%</span>
+                <div class="bar" style="width: 51.064%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">64%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Rust</span>
-                <div class="bar" style="width: 15.152000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                <span class="value">19%</span>
+                <div class="bar" style="width: 14.336000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">18%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Shell</span>
-                <div class="bar" style="width: 10.280000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 10.408%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">13%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Batchfile</span>
-                <div class="bar" style="width: 2.2640000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 2.296%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">3%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Kotlin</span>
-                <div class="bar" style="width: 1.3039999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 1.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">2%</span>
               </div>
             
@@ -1063,7 +1063,7 @@
             
               <div class="entry">
                 <span class="name">Java</span>
-                <div class="bar" style="width: 0.104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 0.11200000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">0%</span>
               </div>
             
@@ -3015,7 +3015,7 @@
                   
                   <div class="name">
                     <span>Worble/Zulma</span>
-                    <span>starred 23 hours ago</span>
+                    <span>starred 24 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -3070,7 +3070,7 @@
       
         <footer>
           <span>These metrics include private contributions, timezone Europe/Amsterdam</span>
-          <span>Last updated Sat, 23 Jan 2021 09:37:17 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sat, 23 Jan 2021 10:38:24 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
