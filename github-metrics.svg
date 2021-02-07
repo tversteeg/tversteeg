@@ -1007,8 +1007,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">6</span>
-              <div class="bar" style="height: 13.636363636363635px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">2</span>
+              <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               15
             </div>
           
@@ -1071,8 +1071,8 @@
           <div class="chart-bars">
             
               <div class="entry">
-                <span class="value">12</span>
-                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">8</span>
+                <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Sun
               </div>
             
@@ -1122,31 +1122,31 @@
             
               <div class="entry">
                 <span class="name">HTML</span>
-                <div class="bar" style="width: 78.70400000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="width: 78.52799999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 <span class="value">98%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Rust</span>
-                <div class="bar" style="width: 0.496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 0.5599999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">1%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Shell</span>
-                <div class="bar" style="width: 0.496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 0.5599999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">1%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Kotlin</span>
-                <div class="bar" style="width: 0.136%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 0.152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">0%</span>
               </div>
             
               <div class="entry">
                 <span class="name">RenderScript</span>
-                <div class="bar" style="width: 0.072%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 0.08%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">0%</span>
               </div>
             
@@ -1158,7 +1158,7 @@
             
               <div class="entry">
                 <span class="name">Sass</span>
-                <div class="bar" style="width: 0.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 0.04%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">0%</span>
               </div>
             
@@ -3068,7 +3068,7 @@
                   
                   <div class="name">
                     <span>zesterer/atto</span>
-                    <span>starred 2 hours ago</span>
+                    <span>starred 3 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -3125,7 +3125,7 @@
           
             <span>These metrics include private contributions, timezone Europe/Amsterdam</span>
           
-          <span>Last updated Sun, 07 Feb 2021 14:07:41 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Sun, 07 Feb 2021 15:07:16 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
